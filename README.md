@@ -1,1 +1,4 @@
-# responsivePortfolioMM
+### responsivePortfolioMM
+
+## Summary of Project
+
