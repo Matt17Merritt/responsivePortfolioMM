@@ -6,7 +6,9 @@ body {
     font-family: serif;
 }
 
-
+.nav navbar-nav navbar-right {
+    float: right;
+}
 
 
 
